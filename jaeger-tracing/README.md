@@ -126,7 +126,6 @@ There is a `docker-compose.yaml`  in this directory. <br/>
 Change your terminal to this folder and run:
 
 ```
-cd tracing
 
 docker-compose build
 
